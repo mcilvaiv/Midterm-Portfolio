@@ -8,12 +8,8 @@
 ## [3.](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/3.md) Write R programs for simulations from probability models and randomization-based experiments.
 ## [4.](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/4.md) Use source documentation and other resources to troubleshoot and extend R programs.
 
-## [5.]() Write clear, efficient, and well-documented R programs.
-
-## 1. 
-
-> For my project, I will import this super bowl data set https://github.com/fivethirtyeight/superbowl-ads/blob/main/superbowl-ads.csv 
-along with one or two more datasets to be determined. I will merge the data sets by year, clean the datasets to make sure the columns and rows that I want to keep are retianed. 
+## [5.](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/5.md) Write clear, efficient, and well-documented R programs.
+ 
 ## 2.
 > I will create graphical displays such as box plots, bar charts, and predictive models.
 > Some tenative ideas are:
