@@ -10,3 +10,10 @@
 
 ### [5.](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/5.md) Write clear, efficient, and well-documented R programs.
 
+## Essays
+
+[Growth as a Data Person]()
+
+[Lightning Round]()
+
+[To be Determined]()
