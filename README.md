@@ -16,4 +16,4 @@
 
 [Lightning Round]()
 
-[To be Determined]()
+[To be Determined](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/ToBeDetermined.md)
