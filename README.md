@@ -18,6 +18,6 @@
 
 [To be Determined](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/ToBeDetermined.md)
 
-### [Artifacts](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/artifacts.md)
+### [Artifacts](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/Artifacts.md)
 
 ## [Final Grade](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/FinalGradeReflection.md)
