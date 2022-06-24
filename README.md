@@ -12,7 +12,7 @@
 
 ## Essays
 
-[Growth as a Data Person]()
+[Growth as a Data Person](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/GrowthAsADataPerson.md)
 
 [Lightning Round]()
 
