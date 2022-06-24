@@ -17,3 +17,7 @@
 [Lightning Round](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/LightningRound.md)
 
 [To be Determined](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/ToBeDetermined.md)
+
+### [Artifacts](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/artifacts.md)
+
+## [Final Grade](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/FinalGradeReflection.md)
