@@ -1,1 +1,1 @@
- The artifacts that I will link to in other parts of my portfolio will be found here. 
+[Grapical Summaries and Vizulizations](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/2.md)
