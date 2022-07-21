@@ -1,6 +1,6 @@
 # Lightning Round
 1. What was the most difficult part of the class for you? List a general topic, a specific problem, a kind of work we did, etc. and explain why.
-> The most difficult part of the class for me has been functions and simulations. I have always struggled with conceptualizing simualtions. The aspects of R that are most difficult for me are the parts that are the most different from SAS. The programming window itslef took a while for me to get used to. It's a bit more "busier" looking than SAS and JAVA. 
+> The most difficult part of the class for me has been functions and simulations. I have always struggled with conceptualizing simualtions. The aspects of R that are most difficult for me are the parts that are the most different from SAS. The programming window itslef took a while for me to get used to. It's a bit more "busier" looking than SAS and JAVA. I have also found it difficult to become familar with the package, function, and key word names.. there is so much to remember! 
 2. What was the easiest part of the class for you? Explain why
 > So far, the easiest part of this class has been finding source documentation when I feel lost. I think I have mastered how to efficiently search for documentation using keywords.
 3. What part of the class surprised or interested you the most? Explain why.
