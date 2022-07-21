@@ -13,4 +13,3 @@
 
 ### [Artifacts](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/Artifacts.md)
 
-## [Final Grade](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/FinalGradeReflection.md)
