@@ -1,4 +1,4 @@
-# Midterm Portfolio
+# Final Portfolio
 ## Valerie McIlvaine
 ## Table of contents
 
