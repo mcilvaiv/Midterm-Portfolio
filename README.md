@@ -9,8 +9,6 @@
 
 [Lightning Round](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/LightningRound.md)
 
-[To be Determined](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/ToBeDetermined.md)
-
 ### [Artifacts](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/Artifacts.md)
 
 [Final Grade Reflection](https://github.com/mcilvaiv/Midterm-Portfolio/blob/main/FinalGradeReflection.md)
