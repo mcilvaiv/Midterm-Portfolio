@@ -13,6 +13,7 @@ I think I have shown that I can Use source documentation and other resources to 
 
 I feel that I have shown good progress in wirting R programs for simulations from probability models and randomization-based experiments, but I think that this is the area that I struggled most in. I have struggled with simulations in every programming language. However, I do feel proud of the progress that I have in this course objective. 
 
+Lastly, I feel like I added things and made the additions that we talked about in the first portfolio submission. I really tried to explain my thought process and expand upon my code and update my data person essay to be more current instead of focusing on the future. 
 
 For these reasons and the work that I have shown, I feel that a B+ is fitting for all progress that I have made this semester. 
 
