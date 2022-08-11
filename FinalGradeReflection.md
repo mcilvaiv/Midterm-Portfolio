@@ -13,3 +13,8 @@ I think I have shown that I can Use source documentation and other resources to 
 
 I feel that I have shown good progress in wirting R programs for simulations from probability models and randomization-based experiments, but I think that this is the area that I struggled most in. I have struggled with simulations in every programming language. However, I so feel proud of the progress that I have in this course objective. 
 
+
+For these reasons and the work that I have shown, I feel that a B+ is fitting for all progress that I have made this semester. 
+
+Hope you have a nice 2 week break between semesters!
+I will be stopping by sometime in the fall to get my sticker!
